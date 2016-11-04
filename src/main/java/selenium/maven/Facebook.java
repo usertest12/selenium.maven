@@ -12,7 +12,8 @@ public class Facebook {
 		
 		 driver.manage().window().maximize();
 		 
-		 driver.get("http://www.facebook.com");
+		 driver.get("http://www.faceboook.com");
+
 	}
 
 }
