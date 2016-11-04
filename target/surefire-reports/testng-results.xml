@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="selenium.maven.TestFacebook" duration-ms="12938" started-at="2016-10-27T18:54:45Z" finished-at="2016-10-27T18:54:58Z">
+  <suite name="selenium.maven.TestFacebook" duration-ms="17738" started-at="2016-11-04T16:47:53Z" finished-at="2016-11-04T16:48:11Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="12938" started-at="2016-10-27T18:54:45Z" finished-at="2016-10-27T18:54:58Z">
+    <test name="Command line test" duration-ms="17738" started-at="2016-11-04T16:47:53Z" finished-at="2016-11-04T16:48:11Z">
       <class name="selenium.maven.TestFacebook">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.maven.TestFacebook@64616ca2]" name="setUp" is-config="true" duration-ms="6517" started-at="2016-10-27T11:54:45Z" finished-at="2016-10-27T11:54:51Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.maven.TestFacebook@64616ca2]" name="setUp" is-config="true" duration-ms="8847" started-at="2016-11-04T09:47:53Z" finished-at="2016-11-04T09:48:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="TestFacebookFireFox()[pri:0, instance:selenium.maven.TestFacebook@64616ca2]" name="TestFacebookFireFox" duration-ms="5134" started-at="2016-10-27T11:54:51Z" finished-at="2016-10-27T11:54:56Z">
+        <test-method status="PASS" signature="TestFacebookFireFox()[pri:0, instance:selenium.maven.TestFacebook@64616ca2]" name="TestFacebookFireFox" duration-ms="6315" started-at="2016-11-04T09:48:02Z" finished-at="2016-11-04T09:48:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestFacebookFireFox -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.maven.TestFacebook@64616ca2]" name="tearDown" is-config="true" duration-ms="1273" started-at="2016-10-27T11:54:56Z" finished-at="2016-10-27T11:54:58Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.maven.TestFacebook@64616ca2]" name="tearDown" is-config="true" duration-ms="2561" started-at="2016-11-04T09:48:08Z" finished-at="2016-11-04T09:48:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
