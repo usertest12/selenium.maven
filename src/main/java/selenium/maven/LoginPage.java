@@ -23,7 +23,7 @@ public class LoginPage {
 		
 		Thread.sleep(1000);
 		WebElement username = driver.findElement(By.xpath(".//*[@id='email']"));
-		username.sendKeys("sruthi.kura@gmail.com");
+		username.sendKeys("sruthikura@gmail.com");
 		
 	}
 	
