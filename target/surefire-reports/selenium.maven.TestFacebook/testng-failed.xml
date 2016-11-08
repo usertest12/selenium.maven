@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [selenium.maven.TestFacebook]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="selenium.maven.TestFacebook">
+        <methods>
+          <include name="tearDown"/>
+          <include name="TestFacebookFireFox"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- selenium.maven.TestFacebook -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [selenium.maven.TestFacebook] -->
