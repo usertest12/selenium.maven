@@ -8,7 +8,7 @@ public class Facebook {
 	
 	public Facebook(WebDriver driver){
 		
-		 //this.driver = driver;
+		 
 		
 		 driver.manage().window().maximize();
 		 
